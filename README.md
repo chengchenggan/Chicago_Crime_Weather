@@ -1,2 +1,2 @@
 # Chicago_Crime_Weather
-this project is try to see what's the relationship between crime and weather in Chicago.
+Gathered crime data for Chicago in 2016 to see if there is a correlation between temperature and types of crimes. 
